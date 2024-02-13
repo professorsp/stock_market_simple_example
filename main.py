@@ -6,6 +6,7 @@ from tkinter import filedialog
 from ttkbootstrap.constants import *
 from ttkbootstrap.tableview import Tableview
 
+
 data_text = None
 
 
